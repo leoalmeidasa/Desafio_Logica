@@ -8,6 +8,7 @@
 
 ## Requisitos:
 ● Extrair os diamantes e areias da expressão até que não haja mais o que ser extraído;
+
 ● Exibir a quantidade de diamantes extraídos;;
 
 ## Para executar o arquivo
