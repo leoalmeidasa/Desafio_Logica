@@ -12,4 +12,4 @@
 
 ## Para executar o arquivo
 
-ruby desafio_logica.rb
+`ruby desafio_logica.rb`
